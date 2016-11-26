@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class ColoredSpheres : MonoBehaviour {
+public class ColouredSpheres : MonoBehaviour {
 
 	public float sphereRadius = 0.0025f;
 
