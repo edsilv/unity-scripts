@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
+// Turns a mesh with vertex colors into coloured spheres
 public class ColouredSpheres : MonoBehaviour {
 
 	public float sphereRadius = 0.0025f;
